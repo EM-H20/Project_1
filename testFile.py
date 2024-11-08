@@ -3,8 +3,8 @@ import test2
 
 test2.testf()
 
-# a = input('입력 : test')
-# print(a)
+a = input('입력 : test')
+print(a)
 # print(a)
 
 # #클래스
