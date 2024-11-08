@@ -1,13 +1,18 @@
-a = input('입력 : test')
-print(a)
-print(a)
+import test2
 
-#클래스
 
-#함수1
+test2.testf()
 
-#함수2
+# a = input('입력 : test')
+# print(a)
+# print(a)
 
-#함수3
+# #클래스
+
+# #함수1
+
+# #함수2
+
+# #함수3
 
 
